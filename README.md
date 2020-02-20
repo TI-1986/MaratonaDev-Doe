@@ -1,4 +1,5 @@
-<img src="./Wallpapers/computer-vector.svg" align="center"></img>
+<img src="./Wallpapers/computer-vector.svg"></img>
+
 <h1 align="center">Maratona Dev 3</h1>
 <p align="center">Projeto <strong>D🩸e Sangue</strong> 3ª  MaratonaDev da Rocketseat</p>
 <p align="center">
