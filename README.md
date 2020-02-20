@@ -9,7 +9,7 @@
   </a>
   
   <a aria-label="Repo Size" href="README.md">
-  	<img src="https://img.shields.io/github/repo-size/LeoGHz/DoeSangue.svg"></img>
+  	<img src="https://img.shields.io/github/repo-size/TI-1986/DoeSangue.svg"></img>
   </a>
 
 ## 🩸 Projeto
@@ -19,4 +19,4 @@
 ## Frontend
 
 #### obs: a página está com zoom reduzido a 50%
-<img align="center" src="./Wallpapers/frontend.png"></img>
+<img align="center" src="./Wallpapers/frontend.png" align="center"></img>
