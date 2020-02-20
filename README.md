@@ -9,7 +9,7 @@
   </a>
   
   <a aria-label="Repo Size" href="README.md">
-  	<img src="https://img.shields.io/github/repo-size/TI-1986/DoeSangue.svg"></img>
+  	<img src="https://img.shields.io/github/repo-size/LeoGHz/DoeSangue.svg"></img>
   </a>
 
 ## 🩸 Projeto
