@@ -19,4 +19,4 @@
 ## Frontend
 
 #### obs: a página está com zoom reduzido a 50%
-<img align="center" src="./Wallpapers/frontend.png" align="center"></img>
+<img align="center" src="./Wallpapers/frontend.png"></img>
